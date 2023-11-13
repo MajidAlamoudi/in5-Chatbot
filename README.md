@@ -1,5 +1,7 @@
 In5 Chatbot
+
 This project consists of a chatbot built using React for the frontend and an Express server for the backend. It utilizes OpenAI's GPT-3.5 for natural language processing and responses.
+
 
 Features
 Chat Interface: Users can interact with the chatbot through a simple text input field.
